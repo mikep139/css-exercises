@@ -1,3 +1,19 @@
-p {
+.pink-bg {
     background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number-two {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.number-three {
+    font-size: 24px;
+}
+
+#number-four {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
 }
